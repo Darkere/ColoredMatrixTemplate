@@ -1,6 +1,6 @@
-###ColoredMatrixTemplate
+# ColoredMatrixTemplate
 
-#Template for creating colored Matrix Displays in The Bus
+### Template for creating colored Matrix Displays in The Bus
 
 
 Relevant files are under /Content/Vehicles/Common/Configuration/Pack_TML_Displays/
